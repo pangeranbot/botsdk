@@ -1,0 +1,18 @@
+{
+  "name": "botchat",
+  "description": "Xxd",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "http://github.com/pangeranbot/botchat"
+    }
+  ]
+}
